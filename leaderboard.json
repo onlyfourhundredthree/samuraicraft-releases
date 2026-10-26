@@ -1,0 +1,62 @@
+{
+  "streaks": [
+    {
+      "rank": 1,
+      "name": "Kenshin_X",
+      "value": "84 Gun",
+      "category": "Gunluk Seri",
+      "avatarUrl": "https://mc-heads.net/avatar/Kenshin_X/40"
+    },
+    {
+      "rank": 2,
+      "name": "Miyamoto_99",
+      "value": "72 Gun",
+      "category": "Gunluk Seri",
+      "avatarUrl": "https://mc-heads.net/avatar/Miyamoto_99/40"
+    },
+    {
+      "rank": 3,
+      "name": "RoninLeader",
+      "value": "68 Gun",
+      "category": "Gunluk Seri",
+      "avatarUrl": "https://mc-heads.net/avatar/RoninLeader/40"
+    },
+    {
+      "rank": 4,
+      "name": "ShadowNinja",
+      "value": "55 Gun",
+      "category": "Gunluk Seri",
+      "avatarUrl": "https://mc-heads.net/avatar/ShadowNinja/40"
+    },
+    {
+      "rank": 5,
+      "name": "Zemheri",
+      "value": "48 Gun",
+      "category": "Gunluk Seri",
+      "avatarUrl": "https://mc-heads.net/avatar/MHF_Alex/40"
+    }
+  ],
+  "clans": [
+    {
+      "rank": 1,
+      "name": "KATANA CLAN",
+      "value": "14.850 Puan",
+      "category": "Lonca Siralamasi",
+      "avatarUrl": "https://mc-heads.net/avatar/RoninLeader/40"
+    },
+    {
+      "rank": 2,
+      "name": "SHOGUNATE",
+      "value": "12.400 Puan",
+      "category": "Lonca Siralamasi",
+      "avatarUrl": "https://mc-heads.net/avatar/Kenshin_X/40"
+    },
+    {
+      "rank": 3,
+      "name": "RONIN LEGION",
+      "value": "10.950 Puan",
+      "category": "Lonca Siralamasi",
+      "avatarUrl": "https://mc-heads.net/avatar/Miyamoto_99/40"
+    }
+  ]
+}
