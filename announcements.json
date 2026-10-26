@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "tag": "✦ Sezon 1",
+    "date": "26 Ekim 2026",
+    "title": "Samuraylar Yukseliyor: Yeni Sezon Basladi!",
+    "description": "50 Seviyeli Samurai Pass, yeni Zindan Bosslari ve haftalik klan turnuvalari simdi yayinda. Hemen oyna ve siralamada yerini al!",
+    "cta": "Detaylari Incele",
+    "url": "https://samuraicraft.net"
+  },
+  {
+    "id": "2",
+    "tag": "Turnuva",
+    "date": "Kayitlar Acik",
+    "title": "Buyuk Lonca Arenasi Turnuvasi (15.000 TL Odul)",
+    "description": "SamuraiCraft tarihinin en buyuk turnuvasi basliyor. Klanini topla, arenaya adim at ve buyuk nakit odulun sahibi ol!",
+    "cta": "Turnuvaya Katil",
+    "url": "https://discord.gg/samurai"
+  }
+]
